@@ -48,7 +48,7 @@ def them_sv(data):
     # Kiểm tra trùng MSSV
     for sv in data:
         if sv["mssv"] == mssv:
-            print("❌ MSSV đã tồn tại, không thể thêm!")
+            print("MSSV đã tồn tại, không thể thêm!")
             return
 
     ho_ten = input("Nhập họ tên: ")
@@ -56,7 +56,7 @@ def them_sv(data):
 
     ds_mon = load_monhoc()
     if not ds_mon:
-        print("⚠️ Không có file monhoc.txt hoặc rỗng, không thể thêm môn học!")
+        print("Không có file monhoc.txt hoặc rỗng, không thể thêm môn học!")
     else:
         while True:
             print("\nDanh sách môn học có sẵn:")
@@ -78,13 +78,13 @@ def them_sv(data):
                             "diem_mon": tinh_diem_mon(d1, d2)
                         }
                         mon_hoc.append(mon)
-                        print(f"✅ Đã thêm môn {ds_mon[idx]}")
+                        print(f"Đã thêm môn {ds_mon[idx]}")
                     except:
-                        print("❌ Nhập sai điểm, bỏ qua môn này!")
+                        print("Nhập sai điểm, bỏ qua môn này!")
                 else:
-                    print("❌ Số không hợp lệ!")
+                    print("Số không hợp lệ!")
             else:
-                print("❌ Nhập sai, phải là số!")
+                print("Nhập sai, phải là số!")
 
     sv = {
         "mssv": mssv,
@@ -94,7 +94,7 @@ def them_sv(data):
     }
     data.append(sv)
     save_data(data)
-    print("🎉 Đã thêm sinh viên!")
+    print("Đã thêm sinh viên!")
 
 def xem_sv(data):
     if not data:
