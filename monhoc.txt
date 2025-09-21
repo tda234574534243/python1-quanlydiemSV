@@ -1,0 +1,102 @@
+Lập trình cơ bản
+Cơ sở toán trong Công nghệ thông tin
+Toán rời rạc và ứng dụng
+Thiết kế web
+Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam
+Pháp luật đại cương
+Triết học Mác – Lênin
+Tâm lý học đại cương
+Giáo dục thể chất 1 (Thể dục - Điền kinh)
+Lập trình nâng cao
+Lập trình hướng đối tượng
+Công tác quốc phòng và an ninh
+Kinh tế chính trị học Mác - Lênin
+Chủ nghĩa xã hội khoa học
+Phương pháp nghiên cứu khoa học
+Giáo dục đời sống
+Phương pháp học tập hiệu quả
+Giáo dục Thể chất 2
+Kỹ năng thích ứng và giải quyết vấn đề
+Kỹ năng làm việc nhóm và tư duy sáng tạo
+Cấu trúc dữ liệu
+Cơ sở dữ liệu
+Lập trình trên Windows
+Xác suất thống kê và ứng dụng
+Lý thuyết đồ thị và ứng dụng
+Quân sự chung
+Tư tưởng Hồ Chí Minh
+Giáo dục Thể chất 3
+Kiến trúc máy tính và hợp ngữ
+Nhập môn mạng máy tính
+Hệ điều hành
+Phân tích và thiết kế giải thuật
+Quy hoạch tuyến tính và ứng dụng
+Kỹ thuật chiến đấu bộ binh và chiến thuật
+Lịch sử Đảng cộng sản Việt Nam
+Nhập môn công nghệ phần mềm
+Phân tích thiết kế hướng đối tượng
+Trí tuệ nhân tạo
+Các hệ cơ sở dữ liệu
+Thiết kế và quản lý mạng LAN
+Phân tích và thiết kế hệ thống thông tin
+Cơ sở dữ liệu nâng cao
+Hệ thống mã nguồn mở
+Xử lý ảnh số
+Quản trị cơ bản với Windows Server
+Nghi thức giao tiếp mạng (CISCO 1)
+Phát triển ứng dụng trên thiết bị di động
+Quản lý dự án Công nghệ Thông tin
+Kiểm thử phần mềm cơ bản
+Phát triển ứng dụng trò chơi
+Quy trình phát triển phần mềm Agile
+Hệ thống nhúng và ứng dụng
+Học máy
+Lập trình Python
+Lập trình PHP
+Thực hành nghề nghiệp
+Mạng máy tính nâng cao
+Công nghệ Web
+Công nghệ JAVA
+Các hệ cơ sở tri thức
+Đồ hoạ máy tính
+Bảo mật và an ninh mạng
+Logic mờ và ứng dụng
+Công nghệ .NET
+Chuyên đề Oracle
+Truyền thông kỹ thuật số
+Chuẩn đoán và quản lý sự cố mạng
+Định tuyến mạng nâng cao (CISCO 2)
+Quản trị mạng với Linux
+Quản trị dịch vụ mạng với Windows Server
+Hệ thống quản trị doanh nghiệp
+Xây dựng dự án Công nghệ thông tin
+Hệ tư vấn thông tin
+Bảo mật cơ sở dữ liệu
+Khai thác dữ liệu và ứng dụng
+Lập trình tiến hóa và thuật giải di truyền
+Các phương pháp học thống kê
+Lắp ráp, cài đặt và bảo trì máy tính
+Internet vạn vật
+Nhập môn DevOps
+Công nghệ chuỗi khối và ứng dụng
+Các giải thuật tính toán đại số
+Khai thác dữ liệu văn bản
+Xử lý ngôn ngữ tự nhiên
+Lý thuyết mã hóa và mật mã
+Thực tập nghề nghiệp 1
+Khởi nghiệp
+Công nghệ phần mềm nâng cao
+Công nghệ mạng không dây
+Thương mại điện tử
+Kiểm thử phần mềm nâng cao
+Điện toán đám mây
+Đồ họa máy tính nâng cao
+Phân tích dữ liệu
+Máy học nâng cao
+Thị giác máy tính và ứng dụng
+Phân tích ảnh y khoa
+Phát triển ứng dụng trên thiết bị di động nâng cao
+Thực tập nghề nghiệp 2
+Khóa luận tốt nghiệp
+Hồ sơ tốt nghiệp
+Sản phẩm nghiên cứu

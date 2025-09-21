@@ -1,0 +1,72 @@
+[
+    {
+        "mssv": "SV001",
+        "ho_ten": "Nguyen Van A",
+        "mon_hoc": [
+            {
+                "ten": "Cơ sở dữ liệu",
+                "diem1": 8.0,
+                "diem2": 7.5,
+                "diem_mon": 7.7
+            },
+            {
+                "ten": "Lập trình Python",
+                "diem1": 6.5,
+                "diem2": 7.0,
+                "diem_mon": 6.8
+            }
+        ],
+        "gpa": 7.25
+    },
+    {
+        "mssv": "SV002",
+        "ho_ten": "Tran Thi B",
+        "mon_hoc": [
+            {
+                "ten": "Mạng máy tính",
+                "diem1": 9.0,
+                "diem2": 8.5,
+                "diem_mon": 8.7
+            },
+            {
+                "ten": "Hệ điều hành",
+                "diem1": 7.0,
+                "diem2": 7.5,
+                "diem_mon": 7.3
+            }
+        ],
+        "gpa": 8.0
+    },
+    {
+        "mssv": "49.01.104.005",
+        "ho_ten": "Trần Đức Anh",
+        "mon_hoc": [
+            {
+                "ten": "An toàn thông tin",
+                "diem1": 10.0,
+                "diem2": 10.0,
+                "diem_mon": 10.0
+            }
+        ],
+        "gpa": 10.0
+    },
+    {
+        "mssv": "49.01.104.007",
+        "ho_ten": "Nguyen Thi C",
+        "mon_hoc": [
+            {
+                "ten": "Phân tích thiết kế và giải thuật",
+                "diem1": 4.5,
+                "diem2": 7.8,
+                "diem_mon": 6.5
+            },
+            {
+                "ten": "Trí tuệ nhân tạo",
+                "diem1": 3.0,
+                "diem2": 6.0,
+                "diem_mon": 4.8
+            }
+        ],
+        "gpa": 5.65
+    }
+]
