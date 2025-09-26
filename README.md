@@ -81,7 +81,7 @@ Mỗi sinh viên trong `sinhvien.json` có dạng JSON object:
 
 ## Cách chạy
 #command: 
-* window
+* window:
 ```
 python<version> quanly.py
 ```
