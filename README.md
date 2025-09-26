@@ -80,5 +80,11 @@ Mỗi sinh viên trong `sinhvien.json` có dạng JSON object:
 * Khi `monhoc.txt` không tồn tại, chức năng thêm môn sẽ bị vô hiệu — nên thêm mặc định hoặc hiển thị hướng dẫn tạo file.
 
 ## Cách chạy
+#command: 
+* window
+'python<version> quanly.py'
+* linux
+'chmod +x quanly.py
+./quanly.py'
 
 * Thêm sinh viên mới: chạy chương trình → chọn 1 → nhập MSSV, họ tên → chọn môn từ danh sách `monhoc.txt` → nhập điểm 40% và 60% → chương trình tự tính `diem_mon` và `gpa` và lưu vào `sinhvien.json`.
