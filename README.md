@@ -82,9 +82,14 @@ Mỗi sinh viên trong `sinhvien.json` có dạng JSON object:
 ## Cách chạy
 #command: 
 * window
-'python<version> quanly.py'
+```
+python<version> quanly.py
+```
 * linux
-'chmod +x quanly.py
-./quanly.py'
+chạy tương tự window hoặc:
+```
+chmod +x quanly.py
+./quanly.py
+```
 
 * Thêm sinh viên mới: chạy chương trình → chọn 1 → nhập MSSV, họ tên → chọn môn từ danh sách `monhoc.txt` → nhập điểm 40% và 60% → chương trình tự tính `diem_mon` và `gpa` và lưu vào `sinhvien.json`.
