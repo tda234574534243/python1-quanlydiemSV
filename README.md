@@ -6,6 +6,10 @@
 
 Đây là một chương trình console nhỏ để quản lý danh sách sinh viên, mỗi sinh viên có mã số (MSSV), họ tên, danh sách môn học và điểm từng môn. Chương trình hỗ trợ thêm, xem, sửa, xóa sinh viên và lưu dữ liệu vào file JSON (`sinhvien.json`). Danh sách tên môn khả dụng được đọc từ file `monhoc.txt`.
 
+Biểu diễn dữ liệu điểm của [nhóm] sinh viên bao gồm thông tin cơ bản (mã số sinh viên, họ tên), danh sách điểm chi tiết cho từng môn học, điểm GPA. Lưu trữ dữ liệu dạng file json, điểm thành phần quy định mỗi môn 2 cột điểm thành phần 40% và 60%.
+Điểm chi tiết và điểm môn học lấy 01 số thập phân, GPA lấy 02 số thập phân.
+Sử dụng try...except để bắt lỗi. Module json và các hàm dump(), load() để ghi và đọc file JSON.
+
 ## Tệp trong dự án
 
 * `sinhvien.json` — file dữ liệu chính chứa danh sách sinh viên (JSON). Nếu chưa tồn tại, chương trình khởi tạo danh sách rỗng.
