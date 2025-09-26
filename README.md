@@ -10,7 +10,7 @@
 
 * `sinhvien.json` — file dữ liệu chính chứa danh sách sinh viên (JSON). Nếu chưa tồn tại, chương trình khởi tạo danh sách rỗng.
 * `monhoc.txt` — file văn bản chứa danh sách tên môn (mỗi môn trên 1 dòng). Dùng khi thêm/sửa sinh viên để chọn môn.
-* `main.py` (hoặc tên file script chứa code) — chương trình chính (console) mà bạn đã cung cấp.
+* `quanly.py` (hoặc tên file script chứa code) — chương trình chính (console) mà bạn đã cung cấp.
 
 ## Yêu cầu
 
@@ -20,7 +20,7 @@
 
 1. Đặt `sinhvien.json`, `monhoc.txt` và file script Python vào cùng một thư mục.
 2. Mở terminal/cmd trong thư mục đó.
-3. Chạy: `python main.py` (hoặc `python3 main.py` tuỳ hệ thống).
+3. Chạy: `python quanly.py` (hoặc `python3 quanly.py` tuỳ hệ thống).
 4. Giao diện console sẽ hiện menu với các lựa chọn:
 
    1. Thêm sinh viên
