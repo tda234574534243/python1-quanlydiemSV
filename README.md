@@ -14,7 +14,7 @@
 
 ## Yêu cầu
 
-* Python 3.6+ (để đảm bảo `json` và f-string hoạt động tốt).
+* Python 3.6+ (để đảm bảo `json` và f-string hoạt động bình thường).
 
 ## Cách chạy
 
@@ -79,20 +79,6 @@ Mỗi sinh viên trong `sinhvien.json` có dạng JSON object:
 * Hiện MSSV so sánh bằng chuỗi; nếu muốn chuẩn hoá, có thể trim/upper/lower trước khi so sánh.
 * Khi `monhoc.txt` không tồn tại, chức năng thêm môn sẽ bị vô hiệu — nên thêm mặc định hoặc hiển thị hướng dẫn tạo file.
 
-## Ví dụ nhanh
+## Cách chạy
 
 * Thêm sinh viên mới: chạy chương trình → chọn 1 → nhập MSSV, họ tên → chọn môn từ danh sách `monhoc.txt` → nhập điểm 40% và 60% → chương trình tự tính `diem_mon` và `gpa` và lưu vào `sinhvien.json`.
-
-## Bản quyền
-
-Bạn có thể sử dụng, sửa đổi và phân phối mã này tuỳ ý (không có license ghi rõ). Nếu muốn, thêm file `LICENSE` tương ứng.
-
----
-
-Nếu bạn muốn, mình có thể:
-
-* Viết file `README.md` hoàn chỉnh và thêm vào canvas (mình đã làm).
-* Chỉnh sửa nội dung README theo style Markdown khác (ngắn gọn hoặc chi tiết hơn).
-* Viết thêm unit tests, hoặc đổi giao diện sang web/CLI nâng cao.
-
-Nhắc mình làm tiếp phần nào cho anh cho tới khi đạt chuẩn "monarch" — mình sẵn sàng hỗ trợ 😄
