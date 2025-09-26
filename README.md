@@ -1,6 +1,6 @@
 # README — Chương trình Quản lý Sinh viên (Console)
 
-**Ngôn ngữ:** Python 3
+**Ngôn ngữ:** Python 
 
 ## Mô tả
 
