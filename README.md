@@ -14,7 +14,7 @@ Sử dụng try...except để bắt lỗi. Module json và các hàm dump(), lo
 
 * `sinhvien.json` — file dữ liệu chính chứa danh sách sinh viên (JSON). Nếu chưa tồn tại, chương trình khởi tạo danh sách rỗng.
 * `monhoc.txt` — file văn bản chứa danh sách tên môn (mỗi môn trên 1 dòng). Dùng khi thêm/sửa sinh viên để chọn môn.
-* `quanly.py` (hoặc tên file script chứa code) — chương trình chính (console) mà bạn đã cung cấp.
+* `quanly.py` (hoặc tên file script chứa code) — chương trình chính (console)
 
 ## Yêu cầu
 
